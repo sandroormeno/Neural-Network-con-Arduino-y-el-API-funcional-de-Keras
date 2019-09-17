@@ -190,6 +190,6 @@ Para finalizar les muestro los resultados de la segunda experiencia en comparaci
 El valor de estas experiencias de reflejan en la posibilidad de construir modelos más complejos que se adapten  a problemas específicos además de establecer los procedimientos para integrar los resultados de entrenamiento desarrollados en __Keras__ y  la reconstrucción del modelo con el lenguaje de __Arduino__.  
 
 ***
-< sup > 1 < / sup >Para efecto de la comparación se uso el STM32F103C8T6 (Blue pill) 
+<sup>1</sup>Para efecto de la comparación se uso el STM32F103C8T6 (Blue pill) 
 
 
