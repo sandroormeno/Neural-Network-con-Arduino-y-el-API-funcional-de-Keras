@@ -31,6 +31,10 @@ En ambas ocasiones se entregaron alrededor de 500 muestras de las cuales el 20% 
 En la segunda experiencia fueron pre-procesados en tres grupos:   
 > x1, x2, x3, x4, x5;  y1, y2, y3, y4, y5;  z1, z2, z3, z4, z5.  
 
+Luego tenemos las diferencias estructurales de ambos modelos: Es evidente que casi se duplican las capas procesadas, así como también la complejidad del segundo modelo. Cada rama de la segunda experiencia  se diferencia de la primera tan solo en el número de neuronas. Finalmente se evidencia la aparición de la capa Merge que técnicamente se denomina Concatenar.  
+
+![imagen](image3.PNG)  
+
 Código en Python de la primera experiencia:  
 
 ```python
@@ -147,11 +151,6 @@ float NeuralNetwork() {
   Serial << "|   " <<  salida_(0,0)*mult_val <<"  "<<salida_(0,1)*mult_val <<"  "<< salida_(0,2)*mult_val ;  
 }
 ```
-
-
-Luego tenemos las diferencias estructurales de los modelos: Es evidente que casi se duplican las capas procesadas, así como también es la complejidad del modelo. Cada rama de la segunda experiencia  se diferencia de la primera tan solo en el número de neuronas. Finalmente se evidencia la aparición de la capa Merge que técnicamente se denomina Concatenar.  
-
-![imagen](image3.PNG)  
 
 Las diferencias en las operaciones y recursos de los modelos. Si bien en la precisión existen pocas diferencias, es el uso de la memoria dinámica (SRam) el ahorro de recursos más evidentes.
 
