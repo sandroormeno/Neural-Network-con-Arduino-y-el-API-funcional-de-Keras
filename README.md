@@ -1,7 +1,7 @@
 # Neural Network con Arduino y el API  funcional de Keras  
 En este artículo quiero exponer los procedimientos y experiencia con redes neuronales y __Arduino__. Las redes neuronales permiten solucionar problemas de clasificación, que puedo resumir en alimentar con datos (características) y también de clases (etiqueta de las características) a una arquitectura de red neuronal (modelo) para ser entrenado y  luego, al entregarle nuevas características me devuelvan las clases correspondientes todo esto último procesado en un micro controlador.   
 
-Para esta experiencia se recopilaron datos de movimiento asociados a ejercicio físico. Los datos son proporcionados por un acelerómetro  y son agrupados en tres tipos de ejercicios (*trote, squat, lunge*). La idea final es que el dispositivo diseñado pueda interpretar los datos (características) y determinar el ejercicio asociado a dichas características.  
+Para esta experiencia se recopilaron datos de movimiento asociados a ejercicio físico. Los datos son proporcionados por un acelerómetro  y son agrupados en tres tipos de ejercicios (*jogging, squat, lunge*). La idea final es que el dispositivo diseñado pueda interpretar los datos (características) y determinar el ejercicio asociado a dichas características.  
 
 ![imagen](image1.PNG)  
 
