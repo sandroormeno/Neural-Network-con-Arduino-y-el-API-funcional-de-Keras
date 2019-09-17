@@ -152,7 +152,7 @@ float NeuralNetwork() {
 }
 ```
 
-Las diferencias en las operaciones y recursos de los modelos. Si bien en la precisión existen pocas diferencias, es el uso de la memoria dinámica (SRam) el ahorro de recursos más evidentes.
+Las diferencias en las operaciones y recursos de los modelos: Si bien en la precisión existen pocas diferencias, es el uso de la memoria dinámica (SRam) el ahorro de recursos más evidentes.
 
 |                  | 1RA       | 2DA      |
 | :--------------- | :-------: | :-------:|
@@ -190,7 +190,7 @@ Ide de __Arduino__ usado: [1.6.9](https://www.arduino.cc/download_handler.php?f=
 Librería de Arduino para operaciones con Matrices:  [__BasicLinearAlgebra 1.2.0__](http://downloads.arduino.cc/libraries/github.com/tomstewart89/BasicLinearAlgebra-1.2.0.zip)  
 Versión de __TensorFlow__: 1.X.  
 
-El valor de estas experiencias de reflejan en la posibilidad de construir modelos más complejos que se adapten  a problemas específicos además de establecer los procedimientos para integrar los resultados de entrenamiento desarrollados en __Keras__ y  la reconstrucción del modelo con el lenguaje de __Arduino__.  
+El valor de estas experiencias se refleja en la posibilidad de construir modelos más complejos que se adapten  a problemas específicos, además de establecer los procedimientos para integrar los resultados de entrenamiento desarrollados en __Keras__ y  la reconstrucción del modelo con el lenguaje de __Arduino__.  
 
 ***
 <sup>1</sup>Para efecto de la comparación se uso el STM32F103C8T6 (Blue pill) 
