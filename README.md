@@ -161,8 +161,8 @@ Las diferencias en las operaciones y recursos de los modelos. Si bien en la prec
 | Épocas           | 300       | 250      |
 | Exactitud        | 97.8%     | 100%     |
 | Perdida          | 0.06      | 0.02     |
-| Flash usado [^1] | 25.3 Kb   | 25.2 kb  |
-| SRam usado [^1]  | 8.7 Kb    | 6 kb     | 
+| Flash usado < sup > 1 < / sup > | 25.3 Kb   | 25.2 kb  |
+| SRam usado < sup > 1 < / sup >  | 8.7 Kb    | 6 kb     | 
 
 
 
@@ -190,6 +190,6 @@ Para finalizar les muestro los resultados de la segunda experiencia en comparaci
 El valor de estas experiencias de reflejan en la posibilidad de construir modelos más complejos que se adapten  a problemas específicos además de establecer los procedimientos para integrar los resultados de entrenamiento desarrollados en __Keras__ y  la reconstrucción del modelo con el lenguaje de __Arduino__.  
 
 ***
-[^1]: Para efecto de la comparación se uso el STM32F103C8T6 (Blue pill) 
+< sup > 1 < / sup >Para efecto de la comparación se uso el STM32F103C8T6 (Blue pill) 
 
 
