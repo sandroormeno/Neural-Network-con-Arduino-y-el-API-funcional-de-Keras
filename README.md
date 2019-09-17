@@ -161,8 +161,8 @@ Las diferencias en las operaciones y recursos de los modelos. Si bien en la prec
 | Épocas           | 300       | 250      |
 | Exactitud        | 97.8%     | 100%     |
 | Perdida          | 0.06      | 0.02     |
-| Flash usado < sup > 1 < / sup > | 25.3 Kb   | 25.2 kb  |
-| SRam usado < sup > 1 < / sup >  | 8.7 Kb    | 6 kb     | 
+| Flash usado <sup>1</sup> | 25.3 Kb   | 25.2 kb  |
+| SRam usado <sup>1</sup>  | 8.7 Kb    | 6 kb     | 
 
 
 
