@@ -161,8 +161,8 @@ Las diferencias en las operaciones y recursos de los modelos. Si bien en la prec
 | Épocas           | 300       | 250      |
 | Exactitud        | 97.8%     | 100%     |
 | Perdida          | 0.06      | 0.02     |
-| Flash usado[^1]  | 25.3 Kb   | 25.2 kb  |
-| SRam usado[^1]   | 8.7 Kb    | 6 kb     | 
+| Flash usado [^1] | 25.3 Kb   | 25.2 kb  |
+| SRam usado [^1]  | 8.7 Kb    | 6 kb     | 
 
 
 
@@ -179,8 +179,8 @@ Para finalizar les muestro los resultados de la segunda experiencia en comparaci
 |   1.12  0.04  0.00     |  1  0  0  |
 |   21.38  0.08  0.00    |  1  0  0  |
 |   0.00  0.01  0.00     |  0  1  0  |
-|   0.00  0.07  0.00 	|  0  1  0  |
-|   0.00  0.00  0.13 	|  0  0  1  |
+|   0.00  0.07  0.00 	 |  0  1  0  |
+|   0.00  0.00  0.13 	 |  0  0  1  |
 |   26.39  0.05  0.00    |  1  0  0  |
 |   0.00  0.02  0.93     |  0  0  1  |
 |------------------------|-----------|
@@ -193,7 +193,3 @@ El valor de estas experiencias de reflejan en la posibilidad de construir modelo
 [^1]: Para efecto de la comparación se uso el STM32F103C8T6 (Blue pill) 
 
 
-
-```python
-
-```
