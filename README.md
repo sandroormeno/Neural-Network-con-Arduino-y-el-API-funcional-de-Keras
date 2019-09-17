@@ -6,7 +6,7 @@ Para esta experiencia se recopilaron datos de movimiento asociados a ejercicios 
 ![imagen](image1.PNG)  
 
 En términos generales podemos resumir el proceso en la recopilación de datos  para luego procesarlos en una red neuronal dentro de un modelo en Keras y pasar los pesos y sesgos a un modelo reconstruido en __Arduino__.  
-Se realizaron dos procedimientos: en una primera experiencia se recopilaron los datos sin procesar y fueron entrenados en un modelo con una secuencia de capas de neuronas (__Keras__). Y en otra experiencia se procesaron  los datos en tres grupos (ejes del acelerómetro) y se entrenaron en tres secuencias de capas de neuronas que luego fueron unidas en una única capa de salida(__Keras__).
+Se realizaron dos procedimientos: en una primera experiencia se recopilaron los datos sin procesar y fueron entrenados en un modelo con una secuencia de capas de neuronas en __Keras__. Y en otra experiencia se procesaron  los datos en tres grupos (ejes del acelerómetro) y se entrenaron en tres secuencias de capas de neuronas que luego fueron unidas en una única capa de salida.
 
 ![imagen](image2.PNG)  
 
