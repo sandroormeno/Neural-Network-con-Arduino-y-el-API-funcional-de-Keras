@@ -188,7 +188,7 @@ Para finalizar les muestro los resultados de la segunda experiencia en comparaci
 Algunos datos técnicos adicionales:  
 Ide de __Arduino__ usado: [1.6.9](https://www.arduino.cc/download_handler.php?f=/arduino-1.6.9-windows.zip)   
 Librería de Arduino para operaciones con Matrices:  [__BasicLinearAlgebra 1.2.0__](http://downloads.arduino.cc/libraries/github.com/tomstewart89/BasicLinearAlgebra-1.2.0.zip)  
-Versión de __TensorFlow__: 1.X.  
+Versión de __TensorFlow__: 1.x.  
 
 El valor de estas experiencias se refleja en la posibilidad de construir modelos más complejos que se adapten  a problemas específicos, además de establecer los procedimientos para integrar los resultados de entrenamiento desarrollados en __Keras__ y  la reconstrucción del modelo con el lenguaje de __Arduino__.  
 
