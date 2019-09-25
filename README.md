@@ -154,7 +154,7 @@ float NeuralNetwork() {
 
 Las diferencias en las operaciones y recursos de los modelos: Si bien en la precisión existen pocas diferencias, es el uso de la memoria dinámica (SRam) el ahorro de recursos más evidentes.
 
-|                  | 1RA       | 2DA      |
+|                  | 1ra       | 2da      |
 | :--------------- | :-------: | :-------:|
 | Parámetros       | 579       | 201      |
 | Épocas           | 300       | 250      |
