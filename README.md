@@ -196,7 +196,3 @@ El valor de estas experiencias de reflejan en la posibilidad de construir modelo
 [^1]: Para efecto de la comparación se uso el STM32F103C8T6 (Blue pill) 
 
 
-
-```python
-
-```
